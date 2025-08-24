@@ -20,7 +20,7 @@ npm install
 3. Configure environment
 Create a .env file in the root directory:
 
-VITE_API_URL= https://notification-frontend-alpha.vercel.app/
+VITE_API_URL= https://notification-frontend-rouge.vercel.app/
 
 ### 4. Run locally
 ```bash
@@ -30,7 +30,7 @@ Notification form for email/SMS
 Status list with real-time updates
 Responsive layout for desktop and mobile
 Deployment
-Live on Vercel: https://notification-frontend-alpha.vercel.app/
+Live on Vercel: https://notification-frontend-rouge.vercel.app/
 
 License
 MIT
